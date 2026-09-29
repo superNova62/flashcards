@@ -2,7 +2,7 @@
 
 Submitted by: **Makayla Riley**
 
-This web app: ****Flashcards for learning french
+This web app: **Flashcards for learning french**
 
 Time spent: **3** hours spent in total
 
