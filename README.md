@@ -41,15 +41,12 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented required features:
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='file:///private/var/folders/7x/gyq3w8mn0jn6pbrz3prtph4h0000gn/T/d89acb89af2af36f2a213dc54881d396/Kapture%202026-10-03%20at%2011.56.10.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with ...  
-file:///private/var/folders/7x/gyq3w8mn0jn6pbrz3prtph4h0000gn/T/d89acb89af2af36f2a213dc54881d396/Kapture%202026-10-03%20at%2011.56.10.gif
+[file:///private/var/folders/7x/gyq3w8mn0jn6pbrz3prtph4h0000gn/T/d89acb89af2af36f2a213dc54881d396/Kapture%202026-10-03%20at%2011.56.10.gif](https://getkap.co)
 
-## Notes
-
-Describe any challenges encountered while building the app.
 
 ## License
 
