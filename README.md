@@ -45,7 +45,7 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='french-flashcards/src/assets/flashcards_video.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='french-flashcards/src/assets/french_flashcards_video.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 GIF created with ...  
 [Kap](https://getkap.co/) for macOS
